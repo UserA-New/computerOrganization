@@ -1,2 +1,2 @@
 # computerOrganization
-Where I post the solutions to the MIPS Projects from the Computer Organization course.
+Where I post the solutions to the MIPS Assignments from the Computer Organization course.
